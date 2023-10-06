@@ -1,0 +1,12 @@
+1. run the Board_game_server.py
+
+2. run the Board_game_players.py
+
+3. provide all the input player files in one shot, i mean altogether
+	player-1.txt is minimum and mandatory
+	other input files must follow the naming convention of "player-x.txt"
+
+4. refer to the output as attached in the images in both the consoles
+
+	
+	
